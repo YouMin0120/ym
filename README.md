@@ -8,11 +8,11 @@ ym의 GITHUB는 수업을 진행한 내용만을 담고 있습니다.
 2. Basic
 3. Game
 
-1_Algorithm
+1.Algorithm
 -------------
 이 파일에는 크게 한개로 작게 두개로 나뉘어 있습니다.
 알고리즘 파일은 크게 정렬을 다루고 있으며
 작게로는 정렬의 종류인 Bubble_Sort와 Selective_Sort를 다루고 있습니다
 
-2_Basic
+2.Basic
 -------------
