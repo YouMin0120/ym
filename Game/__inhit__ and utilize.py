@@ -1,14 +1,3 @@
-#for j in range(2, 10):
-#    for i in range(1,10):
-#        b = "{} * {} = {}".format(j , i , (j*i))
-#        print(b)
-
-#class GAME():
-#    def gm(self):
-#        print(1)
-#a = GAME()
-#a.gm()
-import email.parser
 # heal을 쓰려할때 소모갑이 100이니깐 heal을 명령했을때 소모값이 100이기에 소모값과 a.mp 보다 크면 사용할수 없다
 # import random
 #
