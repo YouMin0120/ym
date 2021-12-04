@@ -1,0 +1,7 @@
+def selection_sort(sort):
+  for i in range(len(sort) - 1):
+    min_idx = i
+    for j in range(i+1, len(sort)):
+      if sort[j] < sort[min_idx]:
+        min_idx = j
+       sort[i], sort[min_idx] = sort[min_idx], sort[i]
