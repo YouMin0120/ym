@@ -10,18 +10,23 @@ ym의 GITHUB는 진행된 수업의 내용만을 담고 있습니다.
 
 First_Algorithm
 -------------
-Algorithm 폴더에는 크게 한개로 작게 두개로 나뉘어 있습니다.
-Algorithm 폴더는 크게 정렬을 다루고 있으며
-작게로는 정렬의 종류인 Bubble_Sort와 Selective_Sort를 다루고 있습니다
+· Sort_Ascending
+· Sort_Selective_Sort
 
 Second_Basic
 -------------
-Basic 폴더는 많은 것을 다루고 있습니다.
-파이썬에 가장 기초적인 것을 다루기에 여러 폴더로 나누어져 있습니다
-(예를 들어 For문 While문 등이 담겨있습니다)
+· Basic_Class
+· Basic_For
+· Basic_While1
+· Basic_While2
+· Basic_list_utilize
 
 Third_Game
 -------------
-Game 폴더는 제가 만든 파이썬에서만 작동하는 게임들을 다루고 있습니다.
-Basic 폴더와 Algorithm 폴더에 있는 언어들을 활용한 파일들의 집합체 입니다.
-약 6가지의 게임들이 있으며 작게는 가위바위보 크게는 오징어게임의 5라운드같은 게임들이 있습니다
+· Find_Decimals
+· ID_Password(login)
+· Inhit_Utilize
+· Multiplication_Table
+·Rock_Scissors_Paper
+· Squid_Game_(Round5)
+· Tic_Tac_Toe
