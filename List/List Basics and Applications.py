@@ -1,14 +1,3 @@
-#a=int(input())
-#   while a<11:
-#       print("*"*a)
-#           a=a+1
-# for i in range():
-# a=1
-#  while a<11:
-#      print("*"*(10-a))
-#      a=a+1
-# for i in range(11):
-#     # print("*"*(10-i))
 #a=[숫자와 문자를 여러가지 넣을수 있음]
 #a.append(대괄호에 들어가는 문자 또는 숫자를 추가할수 있음)
 # a=int(input())
